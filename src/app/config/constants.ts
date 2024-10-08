@@ -1,0 +1,1 @@
+export const EXAMPLE_URL = 'https://api.example.com/data'
